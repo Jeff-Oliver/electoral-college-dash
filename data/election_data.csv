@@ -1,0 +1,144 @@
+year,candidate,political_party,electoral_votes,popular_votes,popular_percentage
+1824,John Quincy Adams,No Party 1,84,108740,30.9
+1824,Andrew Jackson,No Party 2,99,153544,41.3
+1824,Henry Clay,No Party 3,37,47531,13
+1824,William H. Crawford,No Party 4,41,40856,11.2
+1828,Andrew Jackson,Democratic,178,647286,56
+1828,John Quincy Adams,National Republican,83,508064,43.6
+1832,Andrew Jackson,Democratic,219,687502,54.2
+1832,Henry Clay,National Republican,49,530189,37.4
+1832,William Wirt,Anti-Masonic,7,100715,7.8
+1832,John Floyd,Nullifiers,11,0,0
+1832,not voted,NA,2,0,0
+1836,Martin Van Buren,Democratic,170,762678,50.8
+1836,William Henry Harrison,Whig,73,550816,36.6
+1836,Hugh L. White,Whig,26,146107,9.7
+1836,Daniel Webster,Whig,14,41201,2.7
+1836,W.P. Mangum,Anti-Jackson,11,0,0
+1840,William Henry Harrison,Whig,234,1275016,52.9
+1840,Martin Van Buren,Democratic,60,1129102,46.8
+1844,James K. Polk,Democratic,170,1337243,49.5
+1844,Henry Clay,Whig,105,1299062,48.1
+1844,James Gillespie Birney,Liberty,0,62103,2.3
+1848,Zachary Taylor,Whig,163,1360099,47.3
+1848,Lewis Cass,Democratic,127,1220544,42.5
+1848,Martin Van Buren,Free Soil,0,291501,10.1
+1852,Franklin Pierce,Democratic,254,1601274,50.8
+1852,Winfield Scott,Whig,42,1386580,43.9
+1852,John Parker Hale,Free Soil,0,155210,4.9
+1856,James Buchanan,Democratic,174,1838169,45.3
+1856,John C. Frémont,Republican,114,1341264,33.1
+1856,Millard Fillmore,American,8,873053,21.5
+1860,Abraham Lincoln,Republican,180,1866452,39.9
+1860,John C. Breckinridge,Southern Democratic,72,847953,18.1
+1860,Stephen A. Douglas,Democratic,12,1380202,29.5
+1860,John Bell,Constitutional Union,39,590901,12.6
+1864,Abraham Lincoln,Republican,212,2213665,55
+1864,George B. McClellan,Democratic,21,1805237,45
+1864,not voted,NA,81,0,0
+1868,Ulysses S. Grant,Republican,214,3012833,52.7
+1868,Horatio Seymour,Democratic,80,2703249,47.3
+1868,not voted,NA,23,0,0
+1872,Ulysses S. Grant,Republican,286,3597132,55.6
+1872,Horace Greeley,Democratic/Liberal Republican,0,2834125,43.8
+1872,Thomas A. Hendricks,Independent-Democratic,42,0,0
+1872,B. Gratz Brown,Democratic,18,0,0
+1872,Charles J. Jenkins,Democratic,2,0,0
+1872,David Davis,Democratic,1,0,0
+1872,not voted,NA,17,0,0
+1876,Rutherford B. Hayes,Republican,185,4036298,48
+1876,Samuel J. Tilden,Democratic,184,4300590,51
+1880,James A. Garfield,Republican,214,4454416,48.3
+1880,Winfield Scott Hancock,Democratic,155,4444952,48.2
+1880,James B. Weaver,Greenback,0,305997,3.3
+1884,Grover Cleveland,Democratic,219,4874986,48.5
+1880,James G. Blaine,Republican,182,4851981,48.3
+1888,Benjamin Harrison,Republican,233,5439853,47.8
+1888,Grover Cleveland,Democratic,168,5540309,48.6
+1888,Clinton B. Fisk,Prohibition,0,249819,2.2
+1892,Grover Cleveland,Democratic,277,5556918,46.1
+1892,Benjamin Harrison,Republican,145,5176108,43
+1892,James B. Weaver,People’s,22,1027329,8.5
+1892,John Bidwell,Prohibition,0,270770,2.2
+1896,William McKinley,Republican,271,7104779,51
+1896,William Jennings Bryan,Democratic,176,6502925,46.7
+1900,William McKinley,Republican,292,7207923,51.7
+1900,William Jennings Bryan,Democratic,155,6358133,45.5
+1904,Theodore Roosevelt,Republican,336,7623486,56.4
+1904,Alton B. Parker,Democratic,140,5077911,37.6
+1904,Eugene V. Debs,Socialist,0,402489,3
+1908,William Howard Taft,Republican,321,7678908,51.6
+1908,William Jennings Bryan,Democratic,162,6409104,43
+1908,Eugene V. Debs,Socialist,0,420380,2.8
+1912,Woodrow Wilson,Democratic,435,6293454,41.8
+1912,Theodore Roosevelt,Progressive,88,4119207,27.4
+1912,William Howard Taft,Republican,8,3483922,23.2
+1912,Eugene V. Debs,Socialist,0,900369,6
+1916,Woodrow Wilson,Democratic,277,9129606,49.2
+1916,Charles Evans Hughes,Republican,254,8538221,46.1
+1916,Allan L. Benson,Socialist,0,589924,3.2
+1920,Warren G. Harding,Republican,404,16147249,60.3
+1920,James M. Cox,Democratic,127,9140864,34.1
+1920,Eugene V. Debs,Socialist,0,897704,3.4
+1924,Calvin Coolidge,Republican,382,15725016,54.1
+1924,John W. Davis,Democratic,136,8386503,28.8
+1924,Robert M. La Follette,Progressive,13,4822856,16.6
+1928,Herbert Hoover,Republican,444,21392190,58
+1928,Al Smith,Democratic,87,15016443,40.7
+1932,Franklin D. Roosevelt,Democratic,472,22821857,57.3
+1932,Herbert Hoover,Republican,59,15761841,39.6
+1932,Norman Thomas,Socialist,0,884781,2.2
+1936,Franklin D. Roosevelt,Democratic,523,27476673,60.2
+1936,Alf Landon,Republican,8,16679583,36.5
+1940,Franklin D. Roosevelt,Democratic,449,27243466,54.7
+1940,Wendell Willkie,Republican,82,22304755,44.8
+1944,Franklin D. Roosevelt,Democratic,432,25602505,53.3
+1944,Thomas E. Dewey,Republican,99,22006278,45.8
+1948,Harry S. Truman,Democratic,303,24105695,49.4
+1948,Thomas E. Dewey,Republican,189,21969170,45
+1948,Strom Thurmond,States’ Rights De,39,1169021,2.4
+1948,Henry A. Wallace,Progressive,0,1156103,2.4
+1952,Dwight D. Eisenhower,Republican,442,33778963,54.9
+1952,Adlai E. Stevenson,Democratic,89,27314992,44.4
+1956,Dwight D. Eisenhower,Republican,457,35581003,57.4
+1956,Adlai E. Stevenson,Democratic,73,25738765,42
+1960,John F. Kennedy,Democratic,303,34227096,49.7
+1960,Richard Nixon,Republican,219,34107646,49.5
+1960,Harry F. Byrd,not a candidate,15,0,0
+1964,Lyndon B. Johnson,Democratic,486,42825463,61.1
+1964,Barry Goldwater,Republican,52,27146969,38.5
+1968,Richard Nixon,Republican,301,31710470,43.4
+1968,Hubert Humphrey,Democratic,191,30898055,42.7
+1968,George Wallace,American Independent,46,9906473,13.5
+1972,Richard Nixon,Republican,520,46740323,60.7
+1972,George McGovern,Democratic,17,28901598,37.5
+1976,Jimmy Carter,Democratic,297,40825839,50
+1976,Gerald Ford,Republican,240,39147770,48
+1980,Ronald Reagan,Republican,489,43642639,50.4
+1980,Jimmy Carter,Democratic,49,35480948,41
+1980,John B. Anderson,Independent,0,5719437,6.6
+1984,Ronald Reagan,Republican,525,54455075,58.8
+1984,Walter Mondale,Democratic,13,37577185,40.6
+1988,George H.W. Bush,Republican,426,48886097,53.4
+1988,Michael Dukakis,Democratic,111,41809074,45.7
+1992,Bill Clinton,Democratic,370,44909889,43
+1992,George H.W. Bush,Republican,168,39104545,37.4
+1992,Ross Perot,Independent,0,19742267,18.9
+1996,Bill Clinton,Democratic,379,47402357,49.2
+1996,Bob Dole,Republican,159,39198755,40.7
+1996,Ross Perot,Reform,0,8085402,8.4
+2000,George W. Bush,Republican,271,50455156,47.9
+2000,Al Gore,Democratic,266,50992335,48.4
+2000,Ralph Nader,Green,0,2882897,2.7
+2004,George W. Bush,Republican,286,62040610,50.7
+2004,John Kerry,Democratic,251,59028444,48.3
+2008,Barack Obama,Democratic,365,69498516,52.9
+2008,John McCain,Republican,173,59948323,45.7
+2012,Barack Obama,Democratic,332,65915795,51.1
+2012,Mitt Romney,Republican,206,60933504,47.2
+2016,Donald Trump,Republican,304,62984828,46.1
+2016,Hillary Clinton,Democratic,227,65853514,48.2
+2020,Joe Biden,Democratic,306,81283501,51.3
+2020,Donald Trump,Republican,232,74223975,46.8
+2024,Donald Trump,Republican,312,77302580,49.8
+2024,Kamala Harris,Democratic,226,75017613,48.3
