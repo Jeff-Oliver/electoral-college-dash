@@ -58,7 +58,7 @@ year,candidate,political_party,electoral_votes,popular_votes,popular_percentage
 1888,Clinton B. Fisk,Prohibition,0,249819,2.2
 1892,Grover Cleveland,Democratic,277,5556918,46.1
 1892,Benjamin Harrison,Republican,145,5176108,43
-1892,James B. Weaver,People’s,22,1027329,8.5
+1892,James B. Weaver,Peoples,22,1027329,8.5
 1892,John Bidwell,Prohibition,0,270770,2.2
 1896,William McKinley,Republican,271,7104779,51
 1896,William Jennings Bryan,Democratic,176,6502925,46.7
@@ -96,7 +96,7 @@ year,candidate,political_party,electoral_votes,popular_votes,popular_percentage
 1944,Thomas E. Dewey,Republican,99,22006278,45.8
 1948,Harry S. Truman,Democratic,303,24105695,49.4
 1948,Thomas E. Dewey,Republican,189,21969170,45
-1948,Strom Thurmond,States’ Rights De,39,1169021,2.4
+1948,Strom Thurmond,States Rights,39,1169021,2.4
 1948,Henry A. Wallace,Progressive,0,1156103,2.4
 1952,Dwight D. Eisenhower,Republican,442,33778963,54.9
 1952,Adlai E. Stevenson,Democratic,89,27314992,44.4
